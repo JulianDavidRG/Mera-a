@@ -1,0 +1,61 @@
+/* Base Required CSS - Do Not Change */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: #d9d9d9;
+
+}
+
+body {
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    flex-wrap: nowrap;
+
+}
+
+/* Base Required CSS - Do Not Change */
+
+.tarjeta {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 7px;
+    width: 364px;
+    height: 122px;
+    position: relative;
+    padding: 20px 14px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.chulo {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.textos {
+    font-family: 'Roboto', sans-serif;
+}
+
+.textos :nth-child(1){
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.textos :nth-child(2){
+    font-size: 10px;
+    line-height: 12px;   
+    color: #313131 
+}

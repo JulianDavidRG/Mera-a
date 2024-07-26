@@ -1,0 +1,14 @@
+/* Base Required CSS - Do Not Change */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body { 
+  width: 100%;
+  height: 100%;
+  margin: none;
+}
+
+/* Base Required CSS - Do Not Change */

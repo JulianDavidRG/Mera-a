@@ -1,0 +1,262 @@
+/* Base Required CSS - Do Not Change */
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background: #ffffff;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 309px;
+    color: #ffffff;
+    font-family: "IBM Plex Serif";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    row-gap: 55px;
+    background-size: cover;
+}
+
+.textos {
+    display: flex;
+    column-gap: 48px;
+}
+
+.header svg {
+    width: 126.41px;
+    height: 71px;
+    left: 620px;
+    top: 79px;
+}
+
+.summary {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.summary p {
+    width: 495px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    padding-top: 23px;
+    margin: 0px;
+}
+
+.summary h2 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    margin: 0px;
+}
+
+.body {
+    padding: 68px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 68px;
+}
+
+.body .discount {
+    display: flex;
+    width: 1055px;
+    height: 396px;
+    padding: 25px;
+}
+
+.textd {
+    background-color: #ffffff;
+    width: 399px;
+    height: 346px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.textd h3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    width: 111px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.textd p {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+
+}
+
+.discount .container {
+    display: flex;
+    width: 189px;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+
+.products {
+    flex-wrap: wrap;
+    display: flex;
+    row-gap: 52px;
+    column-gap: 45px;
+    justify-content: center;
+}
+
+.product {
+    display: flex;
+    width: 230px;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+
+
+}
+
+.img {
+    display: flex;
+    width: 230px;
+    height: 230px;
+    background-size: cover;
+    position: relative;
+}
+
+
+.product .chip {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 10px;
+    font-weight: 500;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    font-family: "IBM Plex Serif";
+}
+
+.product .chip.precio {
+    top: 8px;
+    right: 6px;
+    position: absolute;
+}
+
+.product .chip.peso {
+    bottom: 13px;
+    right: 3px;
+    position: absolute;
+}
+
+.product .chip.descuento {
+    top: 8px;
+    left: 7.5px;
+    position: absolute;
+}
+
+
+.name {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding: 7px;
+
+}
+
+.Cart {
+    display: flex;
+    background-color: black;
+    color: #ffffff;
+    justify-content: center;
+    width: 230px;
+    height: 63px;
+    align-items: center;
+    border: 0px;
+    padding: 0px;
+    font-family: "IBM Plex Serif";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.footer {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 255px;
+
+
+}
+
+.footer .container.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 255px;
+    height: 255px;
+}
+
+.footer svg {
+    color: #ffffff;
+    width: 135px;
+    height: 75.82px;
+}
+
+.footer {
+    color: #ffffff;
+    display: grid;
+    justify-content: space-between;
+    grid-template-columns: 255px 1fr 1fr 1fr 1fr;
+}
+
+.columna {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    font-size: 19px;
+    padding-top: 23px;
+}
+
+.columna svg {
+    width: 20px;
+    height: 20px;
+}
+
+.logitos {
+    display: flex;
+    flex-direction: row;
+    padding-top: 15px;
+    column-gap: 15px;
+}
