@@ -1,0 +1,16 @@
+index: 2
+leadTopic: python
+courses:
+  - name: python.base
+    contents: []
+    tasks: []
+  - name: python.io
+    contents: []
+    tasks: []
+  - name: python.http-servers
+    contents: []
+    tasks: []
+  - name: python.django
+    contents: []
+    tasks: []
+project: {}

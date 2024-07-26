@@ -1,0 +1,19 @@
+index: 18
+leadTopic: git
+courses:
+  - name: git.base
+    contents: []
+    tasks: []
+  - name: git.commits
+    contents: []
+    tasks: []
+  - name: git.branches
+    contents: []
+    tasks: []
+  - name: git.merging
+    contents: []
+    tasks: []
+  - name: git.gitflow
+    contents: []
+    tasks: []
+project: {}

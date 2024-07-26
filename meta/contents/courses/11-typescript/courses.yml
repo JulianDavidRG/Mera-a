@@ -1,0 +1,19 @@
+index: 10
+leadTopic: typescript
+courses:
+  - name: typescript.base
+    contents: []
+    tasks: []
+  - name: typescript.generics
+    contents: []
+    tasks: []
+  - name: typescript.narrowing
+    contents: []
+    tasks: []
+  - name: typescript.mapped-types
+    contents: []
+    tasks: []
+  - name: typescript.infer-keyword
+    contents: []
+    tasks: []
+project: {}

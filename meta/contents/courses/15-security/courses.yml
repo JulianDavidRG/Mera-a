@@ -1,0 +1,22 @@
+index: 14
+leadTopic: security
+courses:
+  - name: security.web.csp
+    contents: []
+    tasks: []
+  - name: security.web.cors
+    contents: []
+    tasks: []
+  - name: security.severs.ddos
+    contents: []
+    tasks: []
+  - name: security.severs.sql-injection
+    contents: []
+    tasks: []
+  - name: security.input-management
+    contents: []
+    tasks: []
+  - name: security.owasp
+    contents: []
+    tasks: []
+project: {}

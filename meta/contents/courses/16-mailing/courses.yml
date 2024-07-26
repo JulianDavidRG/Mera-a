@@ -1,0 +1,19 @@
+index: 15
+leadTopic: mailing
+courses:
+  - name: mailing.base
+    contents: []
+    tasks: []
+  - name: mailing.smtp
+    contents: []
+    tasks: []
+  - name: mailing.pop3-imap
+    contents: []
+    tasks: []
+  - name: mailing.headers
+    contents: []
+    tasks: []
+  - name: mailing.html
+    contents: []
+    tasks: []
+project: {}

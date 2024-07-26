@@ -1,0 +1,28 @@
+index: 4
+leadTopic: algos
+courses:
+  - name: algos.hash
+    contents: []
+    tasks: []
+  - name: algos.encryption.symmetric
+    contents: []
+    tasks: []
+  - name: algos.encryption.asymmetric
+    contents: []
+    tasks: []
+  - name: algos.hmac
+    contents: []
+    tasks: []
+  - name: algos.blockchain
+    contents: []
+    tasks: []
+  - name: algos.key-derivation
+    contents: []
+    tasks: []
+  - name: algos.serialization
+    contents: []
+    tasks: []
+  - name: algos.sorting
+    contents: []
+    tasks: []
+project: {}

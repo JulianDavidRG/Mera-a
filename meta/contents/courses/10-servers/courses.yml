@@ -1,0 +1,28 @@
+index: 9
+leadTopic: servers
+courses:
+  - name: servers.base
+    contents: []
+    tasks: []
+  - name: servers.ssh
+    contents: []
+    tasks: []
+  - name: servers.cron
+    contents: []
+    tasks: []
+  - name: servers.shells
+    contents: []
+    tasks: []
+  - name: servers.bash
+    contents: []
+    tasks: []
+  - name: servers.utilities
+    contents: []
+    tasks: []
+  - name: servers.systemd
+    contents: []
+    tasks: []
+  - name: servers.docker
+    contents: []
+    tasks: []
+project: {}

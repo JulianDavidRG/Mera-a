@@ -1,0 +1,43 @@
+index: 3
+leadTopic: internet
+courses:
+  - name: internet.dns.base
+    contents: []
+    tasks: []
+  - name: internet.dns.domains
+    contents: []
+    tasks: []
+  - name: internet.dns.zone-file
+    contents: []
+    tasks: []
+  - name: internet.protocols.ip
+    contents: []
+    tasks: []
+  - name: internet.protocols.mac
+    contents: []
+    tasks: []
+  - name: internet.protocols.tcp
+    contents: []
+    tasks: []
+  - name: internet.protocols.udp
+    contents: []
+    tasks: []
+  - name: internet.protocols.http
+    contents: []
+    tasks: []
+  - name: internet.protocols.tls
+    contents: []
+    tasks: []
+  - name: internet.http.base
+    contents: []
+    tasks: []
+  - name: internet.http.restful
+    contents: []
+    tasks: []
+  - name: internet.http.stateful
+    contents: []
+    tasks: []
+  - name: internet.dark-web
+    contents: []
+    tasks: []
+project: {}

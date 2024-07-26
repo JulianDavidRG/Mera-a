@@ -1,0 +1,34 @@
+index: 13
+leadTopic: auth
+courses:
+  - name: auth.authentication.base
+    contents: []
+    tasks: []
+  - name: auth.authentication.csfr
+    contents: []
+    tasks: []
+  - name: auth.authentication.passwords
+    contents: []
+    tasks: []
+  - name: auth.authentication.jwt
+    contents: []
+    tasks: []
+  - name: auth.authentication.oauth
+    contents: []
+    tasks: []
+  - name: auth.authentication.openid
+    contents: []
+    tasks: []
+  - name: auth.authentication.mfa
+    contents: []
+    tasks: []
+  - name: auth.authorization.base
+    contents: []
+    tasks: []
+  - name: auth.authorization.rbac
+    contents: []
+    tasks: []
+  - name: auth.authorization.abac
+    contents: []
+    tasks: []
+project: {}

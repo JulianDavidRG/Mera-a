@@ -1,0 +1,13 @@
+index: 17
+leadTopic: projects
+courses:
+  - name: projects.architecture
+    contents: []
+    tasks: []
+  - name: projects.time-management
+    contents: []
+    tasks: []
+  - name: projects.kanban-tickets
+    contents: []
+    tasks: []
+project: {}

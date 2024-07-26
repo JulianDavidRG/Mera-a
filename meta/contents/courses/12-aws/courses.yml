@@ -1,0 +1,58 @@
+index: 11
+leadTopic: aws
+courses:
+  - name: aws.base
+    contents: []
+    tasks: []
+  - name: aws.cloudfront
+    contents: []
+    tasks: []
+  - name: aws.ec2
+    contents: []
+    tasks: []
+  - name: aws.s3
+    contents: []
+    tasks: []
+  - name: aws.cloudwatch
+    contents: []
+    tasks: []
+  - name: aws.iam
+    contents: []
+    tasks: []
+  - name: aws.sqs
+    contents: []
+    tasks: []
+  - name: aws.sns
+    contents: []
+    tasks: []
+  - name: aws.route53
+    contents: []
+    tasks: []
+  - name: aws.cognito
+    contents: []
+    tasks: []
+  - name: aws.eventbridge
+    contents: []
+    tasks: []
+  - name: aws.rds
+    contents: []
+    tasks: []
+  - name: aws.serverless.base
+    contents: []
+    tasks: []
+  - name: aws.serverless.cloudformation
+    contents: []
+    tasks: []
+  - name: aws.serverless.lambda
+    contents: []
+    tasks: []
+  - name: aws.serverless.apigateway
+    contents: []
+    tasks: []
+  - name: aws.serverless.cdk
+    contents: []
+    tasks: []
+  - name: aws.serverless.sst
+    contents: []
+    tasks: []
+project: {}

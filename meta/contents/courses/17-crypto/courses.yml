@@ -1,0 +1,28 @@
+index: 16
+leadTopic: crypto
+courses:
+  - name: crypto.base
+    contents: []
+    tasks: []
+  - name: crypto.rpc
+    contents: []
+    tasks: []
+  - name: crypto.contracts
+    contents: []
+    tasks: []
+  - name: crypto.wallets
+    contents: []
+    tasks: []
+  - name: crypto.ethereum.base
+    contents: []
+    tasks: []
+  - name: crypto.ethereum.ethers
+    contents: []
+    tasks: []
+  - name: crypto.ethereum.erc20
+    contents: []
+    tasks: []
+  - name: crypto.ethereum.erc721
+    contents: []
+    tasks: []
+project: {}

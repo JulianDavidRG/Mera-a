@@ -1,0 +1,13 @@
+index: 7
+leadTopic: bundlers
+courses:
+  - name: bundlers.webpack
+    contents: []
+    tasks: []
+  - name: bundlers.esbuild
+    contents: []
+    tasks: []
+  - name: bundlers.babel
+    contents: []
+    tasks: []
+project: {}
